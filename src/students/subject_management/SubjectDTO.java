@@ -1,4 +1,4 @@
-package subject_management;
+package students.subject_management;
 
 public class SubjectDTO {
     private int no;

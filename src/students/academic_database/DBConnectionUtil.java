@@ -1,4 +1,4 @@
-package academic_database;
+package students.academic_database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
